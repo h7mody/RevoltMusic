@@ -1,6 +1,6 @@
 const status = "ATOUMATIC";
 const botName = " Revolt Voice 2 ";
-const rtxText = "2f0.";
+const rtxText = "RTX";
 const version = "Latest@ v3.5"; 
 const startTime = Date.now();
 
