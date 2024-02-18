@@ -1,4 +1,4 @@
-const status = "Made By 2f0.";
+const status = "ATOUMATIC";
 const botName = " Revolt Voice 2 ";
 const rtxText = "2f0.";
 const version = "Latest@ v3.5"; 
